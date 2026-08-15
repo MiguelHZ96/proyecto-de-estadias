@@ -1,1 +1,1 @@
-# proyecto-de-estadias
+# Indice principal de la base de conocimiento
